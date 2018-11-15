@@ -71,7 +71,8 @@ class MaskedInput extends React.Component {
     let options = {
       pattern: this.props.mask,
       value: this.props.value,
-      formatCharacters: this.props.formatCharacters
+      formatCharacters: this.props.formatCharacters,
+      selection: this.props.selection || {start:0, end:0}
     }
     if (this.props.placeholderChar) {
       options.placeholderChar = this.props.placeholderChar

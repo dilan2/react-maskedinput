@@ -1,5 +1,5 @@
 {
-  "name": "react-maskedinput",
+  "name": "@dilan2/react-maskedinput",
   "version": "4.0.1",
   "description": "Masked <input/> React component",
   "main": "lib/index.js",
@@ -31,17 +31,12 @@
     "react": "16.x",
     "react-dom": "16.x"
   },
-  "author": "Jonny Buchanan <jonathan.buchanan@gmail.com>",
-  "homepage": "https://github.com/insin/react-maskedinput",
+  "author": "dilan2",
+  "homepage": "https://github.com/dilan2/react-maskedinput",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/insin/react-maskedinput.git"
+    "url": "git@github.com:dilan2/react-maskedinput.git"
   },
-  "keywords": [
-    "react",
-    "masked",
-    "input",
-    "react-component"
-  ]
+  "keywords": []
 }
